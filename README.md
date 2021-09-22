@@ -19,7 +19,7 @@ Install the Chrome extension following [these steps](https://developer.chrome.co
 1. [Download the code in this repository](https://github.com/mileswwatkins/ar-to-sklar/archive/refs/heads/main.zip), and un-zip the contents
 1. In your Chrome browser, navigate to `chrome://extensions`
 1. Enable `Developer Mode`
-1. Click `Load unpacked` and select the `ar-to-sklar` directory you downloaded
+1. Click `Load unpacked` and select the `ar-to-sklar-main` directory you downloaded
 1. Browse the web!
 
 ## Credits
