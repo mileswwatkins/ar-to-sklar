@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Ar To Sklar",
+	"version": "1.0",
+	"description": "Cloud To Butt, but for Sam Sklar",
+	"web_accessible_resources": ["cmudict.json"],
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
