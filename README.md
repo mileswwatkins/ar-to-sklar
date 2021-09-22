@@ -1,6 +1,6 @@
 # Ar To Sklar
 
-A Chrome extension inspired by [Cloud To Butt](https://github.com/panicsteve/cloud-to-butt), automate [Sam Sklar](https://sklar.substack.com)'s signature joke of replacing all phonemes that rhyme with `sklar`. Operates on all non-user-input text on every webpage.
+A Chrome extension inspired by [Cloud To Butt](https://github.com/panicsteve/cloud-to-butt): automate [Sam Sklar](https://sklar.substack.com)'s signature joke of replacing all phonemes that rhyme with `sklar`. Operates on all non-user-input text on every webpage.
 
 ## Example
 
