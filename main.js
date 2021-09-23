@@ -41,6 +41,9 @@ function handleText(textNode, rhymes) {
     const endsWithSilentE =
       (pronunciation.endsWith("AA1 R") || pronunciation.endsWith("AA2 R")) &&
       chunk.endsWith("e")
+    // TO DO: Make regular expressions more precise, to handle:
+    // - words like `Denmark` that currently turn to `Desklark`
+    // - words like `hardware` that currently turn to `sklarsklare`
     if (!endsWithSilentE) {
       replacedChunk = chunk
         .toLowerCase()
