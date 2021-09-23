@@ -16,10 +16,10 @@ into:
 
 Install the Chrome extension following [these steps](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest):
 
-1. [Download the code in this repository](https://github.com/mileswwatkins/ar-to-sklar/archive/refs/heads/main.zip), and un-zip the contents
+1. [Download the code in this repository](https://github.com/mileswwatkins/sklartificial-intelligence/archive/refs/heads/main.zip), and un-zip the contents
 1. In your Chrome browser, navigate to `chrome://extensions`
 1. Enable `Developer Mode`
-1. Click `Load unpacked` and select the `ar-to-sklar-main` directory you downloaded
+1. Click `Load unpacked` and select the `sklartificial-intelligence-main` directory you downloaded
 1. Browse the web!
 
 ## Building the rhyming word list from scratch
