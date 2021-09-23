@@ -22,6 +22,10 @@ Install the Chrome extension following [these steps](https://developer.chrome.co
 1. Click `Load unpacked` and select the `ar-to-sklar-main` directory you downloaded
 1. Browse the web!
 
+## Building the rhyming word list from scratch
+
+To build the `rhymes-with-sklar.json` word list, run the `get-rhymes.js` script. This will fetch a long list of English words, and then filter them down to only those that rhyme with `sklar` to generate the JSON file.
+
 ## Credits
 
 - Heavily re-uses code from [Steven Frank](https://github.com/panicsteve)'s [Cloud To Butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension
